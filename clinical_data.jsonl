@@ -1,0 +1,3 @@
+{"id": 1, "patient_name": "Abraham Lincoln", "age": 56, "diagnosis": "Seasonal Allergies", "blood_pressure": "120/80", "heart_rate": 72, "body_temperature": 98.6, "recorded_at": "2026-11-12T02:09:22.811587"}
+{"id": 2, "patient_name": "George Washington", "age": 57, "diagnosis": "Mild Dehydration", "blood_pressure": "118/76", "heart_rate": 68, "body_temperature": 98.4, "recorded_at": "2026-11-12T02:11:55.025616"}
+{"id": 3, "patient_name": "Theodore Roosevelt", "age": 50, "diagnosis": "Muscle Strain", "blood_pressure": "125/82", "heart_rate": 78, "body_temperature": 98.7, "recorded_at": "2026-11-12T02:12:05.043060"}
